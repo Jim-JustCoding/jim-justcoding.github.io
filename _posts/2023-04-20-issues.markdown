@@ -6,5 +6,5 @@ img: IssuesLogo.gif
 inner-img: IssuesGameplay.gif
 alt: image-alt
 project-date: April 2022
-description: A 2D platformer with a comic aesthetic. The levels are designed to resemble a comic panel. <i>Issues</i> was developed by a team of 4. <br> I was the animator (2D Frame) of the game. <p>PLAY ON <a href="https://scara2016.itch.io/issues-demo" target="_blank"><i class="fa-brands fa-fw fa-itch-io"></i></a></p>
+description: A 2D platformer with a comic aesthetic. The levels are designed to resemble a comic panel. <i>Issues</i> was developed by a team of 4. <br> I was the animator (2D Frame) of the game. <p>PLAY ON <a href="https://scara2016.itch.io/issues-demo" target="_blank">ITCH.IO<i class="fa-brands fa-fw fa-itch-io"></i></a></p>
 ---

@@ -82,8 +82,8 @@ hr.star-primary:after {
 
 header {
     text-align: center;
-    color: #fff;
-    background: #{{ site.color.primary }};
+    color: #e5e9f0;
+    background: #212121;
 }
 
 header .container {
@@ -150,7 +150,7 @@ header .intro-text .skills {
 
 .navbar {
     text-transform: uppercase;
-    font-family: "Roboto",Helvetica,Arial,sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-weight: 700;
 }
 

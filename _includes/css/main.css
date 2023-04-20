@@ -6,6 +6,7 @@
 
 body {
     overflow-x: hidden;
+    background: #5E81AC;
 }
 
 p {
@@ -83,7 +84,9 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #e5e9f0;
-    background: #{{ site.color.primary }};
+    background: url("/img/background.JPG");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 header .container {

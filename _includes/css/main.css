@@ -99,14 +99,11 @@ header img {
 }
 
 header .intro-text .name {
-    padding: 5px;
-    border-radius: 5px;
     display: block;
     text-transform: uppercase;
     font-family: "Roboto",sans-serif;
     font-size: 2em;
     font-weight: 700;
-    background: #{{ site.color.primary }}; 
 }
 
 header .intro-text .skills {

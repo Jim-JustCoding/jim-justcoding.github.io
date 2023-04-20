@@ -6,7 +6,6 @@
 
 body {
     overflow-x: hidden;
-    background: #5E81AC;
 }
 
 p {
@@ -23,7 +22,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #798a67;
+    color: #a7bd8e;
 }
 
 h1,
@@ -100,11 +99,14 @@ header img {
 }
 
 header .intro-text .name {
+    padding: 5px;
+    border-radius: 5px;
     display: block;
     text-transform: uppercase;
     font-family: "Roboto",sans-serif;
     font-size: 2em;
     font-weight: 700;
+    background: #{{ site.color.primary }}; 
 }
 
 header .intro-text .skills {

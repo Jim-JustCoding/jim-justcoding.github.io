@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 6
+date: 2023-04-20
+img: GHR.jpg
+inner-img: GHRGameplay.gif
+alt: image-alt
+project-date: November 2022
+description: GHR (Gun Handling Realism) is an uncompleted but ambitious VR project to create a Gun Simulator with high fidelity and realism. That is; interactable gun parts, reloading operation, recoil and more. The project used <a href="https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@2.3/manual/index.html" target="_blank">Unity's XR Interaction Toolkit</a> to enable interaction development. <p> The original scope was to create a realistic pistol and a rifle for players to interact with, not realising how complicated this actually is. Within 3 months, I was only able to create a 'usable' pistol that can only remove and insert its magazine, and shoot infinitely.</p> <p>Although I could not deliver my inital scope, I still learnt a lot of VR development, and I may end up starting again from scratch... although with a different framework and more research.</p> <p><i>An .APK that you can sideload onto a Meta Quest 2 will be made available to download soon.</i></p>
+---

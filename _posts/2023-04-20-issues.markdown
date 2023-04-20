@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 1
+date: 2023-04-20
+img: IssuesLogo.gif
+inner-img: IssuesGameplay.gif
+alt: image-alt
+project-date: April 2022
+description: A 2D platformer with a comic aesthetic. The levels are designed to resemble a comic panel. <i>Issues</i> was developed by a team of 4. <br> I was the animator of the game. <p>PLAY ON <a href="https://scara2016.itch.io/issues-demo" target="_blank">Itch.io</a></p>
+---

@@ -12,5 +12,5 @@ description: <p>A point-and-click murder mystery game set in a mansion, and play
 
 <p> I took the first 3 weeks of the project to learn how to do tween animation using Unity's animator. I was aware of other alternatives I could have used, but they were either outdated, or may require more time learning in. I used some sample sprites provided by Unity and practiced rigging sprites for tweening, while the rest of the team were figuring out Yarn Spinner - our narrative engine of choice, and rapidly prototyping gameplay interaction.</p>
 
-<img src="img/portfolio/RedHandedAnim.gif" class="img-responsive img-centered">
+<img src="img/portfolio/RedHandedAnim.gif" alt="Unused animation in Red Handed" class="img-centered">
 ---

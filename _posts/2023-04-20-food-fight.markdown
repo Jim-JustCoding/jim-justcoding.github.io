@@ -13,9 +13,5 @@ description: <p>A short VR experience designed to energise players by dodging th
 
 <p> The team involves me as animator and QA, two software engineers, two artists, and two level designers, with some of my team members fulfilling multiple roles. As I was the only team member who owns a Meta Quest 2 headset, most of my time was testing new features implemented by the team. In fact, the game was originally going to feature a togglable shield that the player can use to block food. Not only we could not figure out the scale of the object correctly in the VR space, and get the controls working correctly, but we found that it defeated the purpose of an energising VR experience - we want the player to be moving constantly. We scrapped it and instead implemented two-handed food cannons.</p>
 
-<video width="512" height="512" controls> 
-    <source src="img/portfolio/FoodFightAnim.mp4" type="video/mp4"> 
-</video>
-
 <p>Check out Liminal's release post on <a href="https://www.linkedin.com/posts/liminal-vr_energy-liminalplatform-virtualreality-activity-7010819503362109440-nEMh?utm_source=share&utm_medium=member_desktop" target="_blank">LinkedIn <i class="fa-brands fa-fw fa-linkedin"></i></a></p>
 ---
